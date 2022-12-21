@@ -1,0 +1,14 @@
+G:\CSharp\NetronLight\NetronLight\bin\Debug\NetronLight.dll
+G:\CSharp\NetronLight\NetronLight\bin\Debug\NetronLight.pdb
+G:\CSharp\NetronLight\NetronLight\obj\Debug\ResolveAssemblyReference.cache
+G:\CSharp\NetronLight\NetronLight\obj\Debug\NetronLight.GraphControl.resources
+G:\CSharp\NetronLight\NetronLight\obj\Debug\NetronLight.csproj.GenerateResource.Cache
+G:\CSharp\NetronLight\NetronLight\obj\Debug\NetronLight.dll
+G:\CSharp\NetronLight\NetronLight\obj\Debug\NetronLight.pdb
+A:\deteksi_hama\NetronLight\bin\Debug\NetronLight.dll
+A:\deteksi_hama\NetronLight\bin\Debug\NetronLight.pdb
+A:\deteksi_hama\NetronLight\obj\Debug\ResolveAssemblyReference.cache
+A:\deteksi_hama\NetronLight\obj\Debug\NetronLight.GraphControl.resources
+A:\deteksi_hama\NetronLight\obj\Debug\NetronLight.csproj.GenerateResource.Cache
+A:\deteksi_hama\NetronLight\obj\Debug\NetronLight.dll
+A:\deteksi_hama\NetronLight\obj\Debug\NetronLight.pdb

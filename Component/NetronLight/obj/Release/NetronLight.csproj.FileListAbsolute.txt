@@ -1,0 +1,10 @@
+A:\deteksi_hama\NetronLight\bin\Release\NetronLight.dll
+A:\deteksi_hama\NetronLight\obj\Release\ResolveAssemblyReference.cache
+A:\deteksi_hama\NetronLight\obj\Release\NetronLight.GraphControl.resources
+A:\deteksi_hama\NetronLight\obj\Release\NetronLight.csproj.GenerateResource.Cache
+A:\deteksi_hama\NetronLight\obj\Release\NetronLight.dll
+A:\deteksi_hama\DeteksiHamaWithDecesionTree\Component\NetronLight\bin\Release\NetronLight.dll
+A:\deteksi_hama\DeteksiHamaWithDecesionTree\Component\NetronLight\obj\Release\ResolveAssemblyReference.cache
+A:\deteksi_hama\DeteksiHamaWithDecesionTree\Component\NetronLight\obj\Release\NetronLight.GraphControl.resources
+A:\deteksi_hama\DeteksiHamaWithDecesionTree\Component\NetronLight\obj\Release\NetronLight.csproj.GenerateResource.Cache
+A:\deteksi_hama\DeteksiHamaWithDecesionTree\Component\NetronLight\obj\Release\NetronLight.dll
